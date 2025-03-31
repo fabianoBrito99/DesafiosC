@@ -1,0 +1,5 @@
+id_transacao,id_cliente,data_transacao,valor_transacao,tipo_transacao
+1,101,2025-03-25,100.0,pagamento
+2,102,2025-03-25,250.0,saque
+3,103,2025-03-25,400.0,pagamento
+4,101,2025-03-25,150.0,ted

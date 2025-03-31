@@ -1,0 +1,1001 @@
+id_cliente,nome,cpf,data_nascimento,renda_mensal,regiao
+1,Kaique Novaes,127.435.896-55,2004-09-29,8116.26,Sul
+2,Nicole Farias,170.946.583-20,1960-07-04,4485.26,Sul
+3,Dr. Henrique Costela,756.801.293-02,1969-08-10,12340.15,Nordeste
+4,Raquel Costa,961.730.458-93,1986-09-07,3963.9,Centro-Oeste
+5,Augusto Mendonça,359.871.406-84,1989-01-20,9725.73,Sul
+6,Cecília Mendonça,410.782.965-02,1961-06-07,12421.19,Centro-Oeste
+7,Dr. Anthony Gabriel Moreira,640.283.157-35,1998-01-28,1391.11,Nordeste
+8,Sara da Costa,724.561.903-43,1996-12-04,14717.98,Nordeste
+9,Anna Liz Borges,953.271.806-03,2005-11-01,4454.67,Sul
+10,Valentim Aparecida,371.560.249-06,1998-10-14,12732.15,Nordeste
+11,Luiz Fernando da Luz,439.157.862-09,1950-07-02,10970.37,Sudeste
+12,Maria Clara Gonçalves,184.372.906-78,1956-11-28,1438.19,Centro-Oeste
+13,Dr. Daniel Pires,938.547.021-32,1978-10-05,12625.2,Nordeste
+14,Gabrielly Farias,193.587.042-41,1951-09-01,1886.65,Sudeste
+15,Isabela Ferreira,064.238.915-24,1960-03-14,7960.88,Centro-Oeste
+16,Miguel Leão,548.609.237-74,1951-10-25,8266.78,Sudeste
+17,Bianca da Rocha,147.230.569-80,1980-06-29,12255.88,Centro-Oeste
+18,Valentim Macedo,698.204.137-96,1953-03-01,17338.87,Sul
+19,Sra. Emanuella Cirino,765.428.031-90,2001-08-18,9559.49,Nordeste
+20,Maria Fernanda Rocha,581.230.764-44,1963-03-15,19028.83,Sudeste
+21,João Gabriel da Mata,754.816.023-26,1994-06-16,11702.48,Nordeste
+22,Marcelo Moraes,485.739.216-09,1976-05-06,6787.66,Sul
+23,Ian da Rocha,509.421.678-30,1968-02-06,5386.98,Sudeste
+24,Lara Melo,960.473.258-74,1990-01-12,9362.9,Sudeste
+25,Sra. Isabela Cassiano,812.754.936-37,1946-07-31,10408.36,Centro-Oeste
+26,Valentim Gomes,904.632.157-61,1956-06-25,18277.09,Sudeste
+27,Dr. Murilo Freitas,326.704.158-90,1971-07-19,4462.49,Sudeste
+28,Luara Ribeiro,462.315.908-60,2005-08-04,6922.51,Nordeste
+29,Zoe Montenegro,472.583.901-97,1947-06-30,11786.31,Sul
+30,Ryan Monteiro,645.203.781-17,1994-12-20,19422.11,Nordeste
+31,Joaquim Pires,380.917.254-50,1974-04-13,9545.33,Nordeste
+32,Dra. Cecília Pereira,426.301.579-70,1952-04-06,18001.72,Sudeste
+33,Julia da Cunha,023.715.869-86,2001-07-02,1859.32,Sul
+34,José Farias,319.824.057-32,1962-07-02,8384.87,Nordeste
+35,Dr. Otto Porto,596.372.081-86,1949-08-07,11254.15,Nordeste
+36,Srta. Pietra Jesus,587.632.041-26,1994-04-22,19339.85,Sudeste
+37,Clarice Vieira,719.325.468-55,1972-01-08,11311.23,Norte
+38,Nicole das Neves,124.986.305-89,1948-09-26,6629.2,Sul
+39,Dr. Rael Vasconcelos,065.329.418-24,1992-10-25,2416.46,Norte
+40,Pietro Cassiano,901.357.864-01,1985-04-17,15672.65,Sudeste
+41,Kamilly Cavalcante,503.671.492-06,1989-01-21,6576.28,Centro-Oeste
+42,Olívia Freitas,319.750.264-70,1990-08-29,4778.01,Centro-Oeste
+43,Elisa Melo,657.483.901-75,2002-08-25,16013.34,Centro-Oeste
+44,Eduardo Vargas,516.403.982-60,1951-03-23,2406.85,Nordeste
+45,Dr. João Pedro Cirino,254.039.178-88,1952-02-13,3201.51,Norte
+46,Isabela Cunha,320.458.169-15,1948-04-03,12842.66,Nordeste
+47,Zoe Castro,829.306.715-21,1952-07-26,2812.79,Sul
+48,Sarah Fogaça,280.157.693-02,1986-06-13,14862.52,Centro-Oeste
+49,Letícia Cirino,651.402.893-42,1968-10-19,11663.63,Centro-Oeste
+50,Valentina Viana,485.307.962-92,1996-09-28,3272.29,Centro-Oeste
+51,Sara Castro,837.459.620-10,1969-03-06,15454.92,Nordeste
+52,Srta. Gabrielly Santos,819.645.370-10,2003-10-16,5483.71,Centro-Oeste
+53,Sra. Ana Luiza Fogaça,563.407.289-10,1970-12-09,10931.92,Nordeste
+54,Maria Fernanda Rios,986.137.045-57,2005-01-02,1482.96,Sul
+55,Leonardo Azevedo,380.152.469-89,1996-10-13,4832.66,Norte
+56,Valentim da Costa,916.305.472-80,1944-11-03,6972.76,Sudeste
+57,Sra. Jade Machado,187.469.320-03,1951-10-12,18243.76,Sul
+58,Guilherme Novais,790.561.432-80,1952-12-22,11256.98,Sul
+59,Anthony Oliveira,162.590.374-06,1990-07-19,5347.17,Centro-Oeste
+60,Camila Pacheco,780.564.219-20,1945-02-05,14200.91,Sudeste
+61,Bento Sampaio,094.283.567-00,1974-07-09,18664.26,Sul
+62,Sofia Fernandes,893.670.524-56,2002-12-13,6617.04,Sul
+63,Maria Alice Sá,569.407.328-29,1972-09-25,17557.75,Sudeste
+64,Lavínia Cavalcante,372.146.089-87,1972-12-09,5150.37,Sudeste
+65,Ana Laura Silveira,192.765.804-76,1973-12-17,17958.62,Centro-Oeste
+66,Lucas Dias,691.327.840-31,2006-06-14,7162.56,Sudeste
+67,Samuel Ferreira,516.802.493-98,1949-07-16,7769.66,Norte
+68,Maria Helena Pires,573.249.018-32,1987-07-30,6170.51,Centro-Oeste
+69,Maysa Farias,489.715.203-88,2001-10-08,9115.05,Sudeste
+70,Diego Brito,695.718.430-75,1953-12-18,7698.81,Centro-Oeste
+71,Thiago Araújo,534.162.980-98,2005-05-20,1132.09,Centro-Oeste
+72,Eduardo Cavalcante,186.302.759-95,1944-09-20,8930.81,Sul
+73,Valentina Araújo,809.765.413-00,2005-04-05,14156.28,Nordeste
+74,Ana Sophia Carvalho,728.501.649-76,1972-09-25,7414.69,Centro-Oeste
+75,Luan Pinto,364.089.271-22,2002-12-14,7140.86,Norte
+76,Ana Lívia da Cruz,873.056.912-59,1983-11-26,8672.89,Norte
+77,Matheus da Cunha,791.624.380-69,1966-05-31,5824.39,Sudeste
+78,Luana Dias,961.038.742-03,2006-12-04,5783.86,Nordeste
+79,Oliver Gomes,712.365.940-61,2003-01-30,14533.14,Sul
+80,Agatha Pimenta,069.352.471-52,1985-11-05,6411.97,Norte
+81,Cecilia da Mata,743.985.261-37,1969-01-01,6068.84,Nordeste
+82,Samuel Cavalcanti,125.046.983-05,1966-02-26,10550.9,Sul
+83,Kamilly Fonseca,901.427.583-88,1999-12-22,7556.35,Norte
+84,Sophia Dias,471.203.586-26,1984-01-10,5551.68,Nordeste
+85,Letícia Barbosa,215.894.703-97,2007-01-29,11087.76,Nordeste
+86,João Miguel Aparecida,276.390.845-47,1996-10-11,19727.36,Sudeste
+87,Sr. Lucca Azevedo,345.780.926-74,1946-11-13,2536.21,Centro-Oeste
+88,Sara Almeida,187.263.945-37,1967-12-26,5601.04,Sul
+89,Srta. Amanda Silva,189.342.607-69,2006-08-01,13013.81,Centro-Oeste
+90,Erick Nogueira,967.053.421-61,1959-08-27,16512.21,Norte
+91,Brayan Cavalcante,795.382.014-50,2002-04-11,3863.63,Centro-Oeste
+92,Renan Ferreira,927.184.360-69,1990-09-14,4543.85,Sul
+93,Srta. Ana Sophia Campos,412.950.763-06,1996-05-28,17308.82,Sudeste
+94,João Felipe Costa,057.861.432-44,2001-07-15,13873.72,Centro-Oeste
+95,Thiago Montenegro,532.461.780-62,1950-08-07,14511.84,Centro-Oeste
+96,Maria Laura da Costa,390.851.726-59,1973-03-01,7624.65,Sudeste
+97,Isaque Câmara,760.152.483-35,1975-03-10,18869.94,Nordeste
+98,Dr. Noah Andrade,249.086.753-92,1995-01-22,16916.49,Centro-Oeste
+99,Josué Mendonça,674.815.309-39,1951-11-02,7480.26,Norte
+100,Olívia Cavalcanti,039.861.427-03,1960-01-20,4972.36,Nordeste
+101,Théo Moreira,931.726.054-34,1984-08-13,5900.89,Sudeste
+102,Maria Júlia da Mata,403.158.627-26,2004-07-22,4324.14,Norte
+103,Lucas Farias,893.407.625-92,1994-06-07,10816.08,Norte
+104,Olívia Câmara,382.975.146-09,1951-06-29,5595.19,Sudeste
+105,Liam Cunha,876.913.520-77,2005-09-02,11607.58,Centro-Oeste
+106,Srta. Beatriz Cassiano,328.947.610-31,1993-03-28,4585.44,Norte
+107,João Gabriel Machado,695.173.802-59,1944-05-09,7634.98,Centro-Oeste
+108,Liz Martins,932.046.178-31,1957-11-23,17270.16,Norte
+109,Carlos Eduardo Nogueira,365.412.798-37,1960-07-14,13198.6,Centro-Oeste
+110,Yan Mendes,791.042.586-49,1980-02-04,18777.06,Sudeste
+111,Lívia Pires,671.932.540-06,1983-05-15,18072.53,Sudeste
+112,Sophie Vasconcelos,502.893.176-30,1964-12-31,12033.05,Norte
+113,Ian Dias,402.158.679-20,1954-10-18,13606.53,Sul
+114,Alana Cavalcante,574.821.396-64,1980-01-27,6394.5,Nordeste
+115,Asafe Montenegro,735.012.648-44,1966-03-24,10226.66,Centro-Oeste
+116,Paulo Rocha,286.179.403-87,1975-07-28,13387.26,Norte
+117,Benicio Nunes,974.081.236-87,1946-01-29,4342.58,Sudeste
+118,Melina Correia,314.725.980-32,1982-07-18,5507.73,Sul
+119,Luiz Fernando Monteiro,286.379.514-73,1980-01-04,4397.63,Centro-Oeste
+120,Sr. Joaquim Viana,537.901.482-88,1946-07-13,13494.64,Norte
+121,Heloisa Gomes,684.902.735-29,1985-07-17,11308.26,Centro-Oeste
+122,Isis Rios,704.183.956-75,1960-01-31,7986.6,Sul
+123,Sara da Rocha,758.630.924-83,1992-06-19,10248.1,Centro-Oeste
+124,Gabriel Garcia,089.154.763-01,1993-07-13,9253.49,Sul
+125,Sr. Lucca Monteiro,157.029.436-43,1989-09-21,10550.1,Sudeste
+126,Marcela Pinto,835.402.791-05,1948-11-20,13709.56,Norte
+127,Marcos Vinicius Barros,523.460.981-24,1951-01-28,4709.62,Sul
+128,Vitor Vargas,203.769.548-92,1962-10-19,10484.67,Sudeste
+129,Lavínia Pereira,819.503.476-48,1985-11-10,1462.0,Norte
+130,Ana Beatriz Ribeiro,713.490.856-93,1958-07-26,1828.47,Sudeste
+131,Manuella da Costa,945.687.120-76,1956-05-11,18868.71,Sul
+132,Dr. Vitor Gabriel Ramos,072.561.348-35,1957-06-02,6311.65,Centro-Oeste
+133,Marcos Vinicius Pinto,854.920.763-29,2001-11-29,15206.66,Sul
+134,Alícia Almeida,680.519.427-01,1965-12-14,18638.05,Norte
+135,Danilo Lopes,324.670.985-83,1950-06-30,11502.53,Centro-Oeste
+136,Erick Rezende,051.839.674-66,1988-05-29,19626.3,Sudeste
+137,Vitor Gabriel Alves,602.734.195-52,1980-04-21,6594.53,Sul
+138,Evelyn Macedo,472.158.309-50,1960-10-27,4627.31,Norte
+139,Diogo Duarte,089.574.216-02,1994-04-28,7021.52,Nordeste
+140,Sr. Levi Novaes,093.512.867-03,1949-09-06,11579.22,Nordeste
+141,Isabella Silveira,729.463.185-91,1956-12-01,18670.32,Nordeste
+142,Augusto Campos,953.261.048-06,1997-06-27,12685.14,Nordeste
+143,Hadassa Gonçalves,495.368.012-05,1982-06-12,5829.11,Nordeste
+144,Liam Vieira,593.681.402-51,1979-04-01,17670.09,Norte
+145,Sr. Anthony Gabriel Oliveira,237.945.186-91,1963-08-21,17124.73,Norte
+146,Gael Porto,270.586.193-95,2006-09-18,14347.2,Sul
+147,Nathan Cassiano,926.851.740-01,1987-02-12,6633.69,Nordeste
+148,Ana Vitória Jesus,486.307.529-47,1973-07-27,16392.15,Norte
+149,Renan Albuquerque,756.084.931-84,1964-06-07,12618.76,Sudeste
+150,Maria Luiza Silva,915.768.034-57,1958-12-06,10715.51,Norte
+151,Sofia Alves,263.178.459-64,1946-08-02,12929.99,Sudeste
+152,Sra. Gabrielly Mendonça,135.829.764-91,1968-02-17,13349.31,Sudeste
+153,Sr. Benjamim Novaes,541.076.839-66,1992-06-02,17845.73,Sudeste
+154,Vinicius Novais,673.802.415-08,1968-01-10,11998.43,Centro-Oeste
+155,Stella Peixoto,435.917.208-79,1981-08-12,9846.36,Sul
+156,Bianca Machado,472.693.085-00,1950-01-03,16939.74,Nordeste
+157,Pedro Henrique Montenegro,508.643.127-17,1991-03-02,1579.5,Sudeste
+158,Lucca Porto,065.794.321-52,1992-11-28,1737.86,Centro-Oeste
+159,Maria Lopes,072.436.819-13,1954-12-17,3414.15,Norte
+160,Francisco da Costa,650.428.713-90,1964-08-15,16729.51,Sudeste
+161,Anthony Borges,105.698.743-00,1989-02-28,5100.6,Sul
+162,Sra. Nicole Duarte,675.132.498-73,1993-08-13,9688.04,Sul
+163,Clara da Cunha,215.903.864-42,2002-04-22,4693.22,Centro-Oeste
+164,Gael Câmara,287.543.901-41,1986-03-13,13111.17,Sudeste
+165,Sr. Ravy Leão,634.207.185-35,1945-06-30,3522.16,Nordeste
+166,Vinicius Vieira,153.049.627-61,1978-11-22,10809.71,Centro-Oeste
+167,João Gabriel Azevedo,598.034.762-38,1984-10-02,16108.54,Centro-Oeste
+168,Heloísa Albuquerque,270.951.634-99,2006-05-02,9340.46,Nordeste
+169,Luiza Azevedo,437.086.521-26,1985-04-09,1481.66,Sul
+170,Srta. Evelyn da Luz,841.395.027-97,1986-06-30,2536.59,Norte
+171,Bento Alves,167.583.204-80,1970-08-29,14081.5,Norte
+172,Matheus Brito,142.956.730-99,1971-07-26,4292.59,Norte
+173,Benjamim Andrade,915.748.623-91,1963-07-26,9404.69,Norte
+174,Bianca Melo,904.571.362-43,1972-10-03,13543.75,Sul
+175,Davi Lucas Cunha,640.952.837-00,1969-05-01,13127.14,Sul
+176,Gustavo Henrique da Mota,180.476.239-31,1995-09-15,15020.04,Sul
+177,Sra. Sabrina Mendes,159.042.637-16,2005-09-13,12622.69,Centro-Oeste
+178,Maria Helena Fernandes,354.296.817-09,1998-12-03,5706.89,Centro-Oeste
+179,Davi Miguel Albuquerque,687.925.034-38,1999-11-05,15399.08,Norte
+180,Luna Jesus,045.827.316-35,1964-03-01,7495.71,Sudeste
+181,Dr. Lucas Gabriel Fernandes,748.026.913-78,2005-10-08,1874.05,Norte
+182,Dra. Isis Moura,185.942.360-42,1979-01-13,6916.85,Sudeste
+183,Dr. José Miguel Gonçalves,421.039.765-25,1991-02-22,4331.28,Nordeste
+184,Ana Júlia Rodrigues,857.192.034-60,1986-12-23,15503.92,Sul
+185,Cecilia Machado,349.170.568-10,1990-08-27,9995.96,Norte
+186,João Vitor Teixeira,965.134.802-05,1994-11-13,9828.8,Sul
+187,Stephany Machado,350.672.914-43,1986-01-29,8571.59,Nordeste
+188,Sra. Mirella Vargas,398.412.765-00,1990-01-01,19033.77,Sudeste
+189,Mirella Carvalho,942.807.351-23,1981-03-24,1860.78,Nordeste
+190,Benício Macedo,951.632.478-91,1999-08-20,12891.34,Nordeste
+191,Ana Luiza Nascimento,586.792.304-56,1949-08-04,10519.76,Sul
+192,Luna Peixoto,823.645.917-91,1985-03-01,13995.31,Nordeste
+193,Allana Lima,723.918.056-59,1985-12-04,1503.71,Centro-Oeste
+194,Sophie da Cunha,814.063.752-17,1988-01-02,16218.04,Sudeste
+195,Dr. Felipe Caldeira,792.861.530-40,1945-08-01,8375.23,Sudeste
+196,Luna da Rosa,954.613.780-48,1986-08-11,3441.51,Sul
+197,Dante Andrade,816.943.205-70,1986-04-22,11366.72,Sul
+198,Dr. Rhavi Moraes,758.204.396-00,1948-03-06,12892.85,Norte
+199,Brayan Fernandes,129.064.375-06,1952-07-25,19262.62,Nordeste
+200,Mariane Nogueira,718.930.645-57,1978-11-17,4927.0,Sul
+201,Dr. Matheus Campos,570.416.289-49,1951-07-29,2317.86,Nordeste
+202,Maysa Cassiano,274.138.065-17,1999-10-05,1740.3,Nordeste
+203,Ana Sophia Rodrigues,541.237.069-16,1967-11-03,13977.13,Norte
+204,Rael Porto,508.932.417-41,2004-02-12,13458.73,Sul
+205,João Gabriel Marques,741.652.098-30,1974-07-18,17052.63,Nordeste
+206,Arthur Dias,810.764.953-20,1996-06-01,7471.87,Centro-Oeste
+207,Dr. Ravi Lucca Porto,617.395.248-37,1956-03-03,6355.24,Sudeste
+208,Luan Peixoto,856.432.107-62,1983-06-30,14164.92,Nordeste
+209,Lavínia Oliveira,734.190.825-41,1962-08-13,12949.91,Sul
+210,Lucca Guerra,074.382.519-50,1977-11-26,1744.54,Norte
+211,Davi Lucca Barbosa,743.526.980-83,2004-03-17,16266.14,Norte
+212,Miguel Castro,729.861.304-96,1963-08-10,11411.47,Sul
+213,Fernando Lopes,250.841.639-89,1967-12-18,15261.68,Centro-Oeste
+214,Pietra Azevedo,052.479.368-92,1989-06-30,19819.6,Sudeste
+215,Ana Clara Pereira,640.718.925-01,1986-05-06,8068.34,Sul
+216,Pedro Lucas Novaes,183.624.795-82,1981-07-12,5533.34,Sul
+217,Dra. Lorena Camargo,839.645.071-48,1990-09-06,15058.27,Centro-Oeste
+218,Elisa Souza,351.879.260-12,1997-01-08,2959.35,Norte
+219,Augusto Cunha,140.372.896-87,1953-09-22,11152.22,Sudeste
+220,Melina Sá,398.125.607-77,1949-06-15,16702.69,Sul
+221,Sra. Hadassa Alves,520.867.439-47,1983-02-24,18014.94,Norte
+222,Joana Teixeira,435.879.612-55,1998-11-15,2016.22,Sul
+223,Catarina Abreu,834.126.075-17,1977-04-03,18202.26,Sudeste
+224,Dra. Evelyn da Cruz,401.625.739-52,1946-10-04,7743.2,Sudeste
+225,Aurora Alves,542.061.783-80,1980-05-13,19051.18,Sudeste
+226,Sabrina Costela,051.269.843-06,1971-01-04,11895.32,Sul
+227,Luan Sales,821.570.934-60,1992-10-01,2742.38,Sudeste
+228,Ana Luiza da Rocha,695.872.341-46,1956-09-25,7244.63,Centro-Oeste
+229,Luiz Felipe Alves,342.895.670-29,1964-07-22,5041.83,Sul
+230,Ravy Sampaio,876.952.304-56,1991-03-19,16040.0,Norte
+231,Caroline Rios,687.425.190-20,1981-11-09,3155.83,Sul
+232,Dr. Liam Ramos,276.539.801-12,2005-11-02,10393.99,Nordeste
+233,Sra. Emanuelly Novaes,459.612.037-43,2006-07-04,9389.08,Sul
+234,Marcos Vinicius Leão,965.140.328-42,1958-03-18,7667.39,Nordeste
+235,Allana Albuquerque,071.293.645-99,1999-08-14,19404.39,Norte
+236,Yan da Rocha,401.938.257-32,1995-01-14,15468.7,Sudeste
+237,Maria Helena Castro,809.321.547-60,1989-10-20,17470.51,Sul
+238,Miguel Carvalho,864.923.057-10,1983-10-06,5228.95,Norte
+239,Mathias Moura,763.105.842-35,1966-11-01,16615.34,Nordeste
+240,Caleb da Costa,109.327.546-43,1994-06-16,3785.49,Sul
+241,Dr. Thiago da Paz,865.124.079-11,2002-05-25,2611.92,Centro-Oeste
+242,Pedro Correia,950.742.168-85,1983-02-24,12044.8,Sul
+243,Olívia Vargas,605.138.794-39,1977-06-01,8042.2,Sudeste
+244,Larissa Fonseca,531.984.207-41,1977-12-19,5497.02,Norte
+245,Sra. Evelyn Caldeira,471.962.803-69,1992-04-02,12245.89,Sudeste
+246,Fernanda Cassiano,570.839.126-02,2000-11-19,8148.93,Centro-Oeste
+247,Isabella da Cunha,168.079.325-02,1991-07-27,15765.79,Centro-Oeste
+248,Ana Sophia Ribeiro,241.796.805-30,1973-02-26,5725.76,Centro-Oeste
+249,Enrico da Cunha,072.356.918-59,1993-09-25,3112.75,Centro-Oeste
+250,Vinicius Guerra,754.169.038-48,1995-02-02,5819.96,Nordeste
+251,Matheus Ramos,415.398.270-97,1978-03-25,9904.55,Nordeste
+252,José Rezende,379.568.021-21,1989-11-21,15078.5,Sul
+253,Mateus da Conceição,703.269.814-03,1963-10-30,16633.02,Norte
+254,Emanuelly Caldeira,851.693.207-95,1981-08-09,13939.75,Sudeste
+255,Cauê Sampaio,413.975.206-80,1967-10-19,19281.28,Sudeste
+256,Sophie Cavalcanti,526.480.179-76,1999-08-21,6428.53,Norte
+257,Rael Fernandes,304.596.812-06,1959-11-28,5248.32,Nordeste
+258,Davi Machado,021.549.863-15,1997-03-18,1230.94,Sul
+259,Dante Sá,506.137.248-44,1990-03-26,1820.04,Sul
+260,Rael Ferreira,634.987.201-04,1971-07-02,1824.61,Sul
+261,Lara da Luz,123.670.549-16,1985-11-29,19866.33,Sul
+262,Thomas Silveira,214.657.309-07,1986-06-22,5806.81,Centro-Oeste
+263,Sr. Danilo Almeida,283.645.097-56,1970-07-31,19416.75,Nordeste
+264,Kevin Fonseca,524.319.067-52,1988-05-01,4158.09,Norte
+265,Ana Lívia Sales,089.651.423-42,1995-01-13,14219.23,Norte
+266,Maria Helena Novaes,542.386.019-98,1964-05-02,12923.6,Centro-Oeste
+267,Isabella Garcia,812.736.540-80,1984-12-28,18122.0,Norte
+268,Alice Abreu,706.183.259-21,2002-01-11,18389.83,Nordeste
+269,Ravi Lucca Campos,318.504.692-70,1950-03-21,19057.82,Sudeste
+270,Joaquim Moreira,056.372.814-08,1992-09-23,3028.37,Sul
+271,Lívia Sousa,154.630.729-06,1981-07-06,6270.24,Sudeste
+272,Dante da Cruz,908.567.321-68,1970-03-09,13290.12,Nordeste
+273,Hadassa da Cunha,904.263.157-07,1980-04-27,5358.5,Sudeste
+274,Ester Azevedo,507.612.839-86,1959-09-30,2476.96,Norte
+275,Samuel Sales,506.198.742-01,1996-10-01,5939.05,Centro-Oeste
+276,Kaique da Mata,304.861.597-01,1997-08-05,14265.07,Norte
+277,Kaique Moreira,792.301.684-40,2006-10-07,6315.51,Sul
+278,João Vitor Machado,185.063.974-48,1983-05-08,16462.11,Sudeste
+279,Thomas Alves,697.345.201-99,1981-04-14,6148.2,Sul
+280,Nicole Sá,865.934.027-29,1957-06-11,18307.62,Sul
+281,Calebe Abreu,814.927.063-96,1984-01-23,18870.1,Centro-Oeste
+282,Ana Clara Andrade,150.967.438-10,1976-01-08,14788.67,Norte
+283,Pedro Vasconcelos,781.954.602-67,1976-10-05,8946.62,Nordeste
+284,Isaque Costela,293.081.675-95,1964-12-31,11480.17,Sul
+285,Rebeca Fernandes,243.091.678-96,1957-10-16,1500.97,Norte
+286,Miguel Araújo,963.108.245-89,1957-05-26,15774.44,Nordeste
+287,Augusto Carvalho,401.769.253-25,2004-08-14,19758.25,Norte
+288,Diogo Silva,759.632.810-59,2004-07-24,8158.04,Nordeste
+289,Maya Aparecida,203.971.468-50,1946-12-14,8236.93,Centro-Oeste
+290,Sr. Luan Rodrigues,712.348.560-26,1951-03-27,17000.26,Sul
+291,Breno Rezende,254.076.381-26,1993-08-30,2206.72,Norte
+292,Nicole Campos,134.069.258-98,1970-10-07,8881.57,Norte
+293,Letícia Santos,042.915.367-80,2002-12-30,1259.77,Sudeste
+294,Yago Leão,289.304.167-13,1965-05-24,16445.12,Sul
+295,Pedro Miguel da Cruz,425.316.980-51,1989-06-05,19936.1,Sul
+296,Murilo Andrade,981.670.425-02,1985-04-09,12117.84,Sul
+297,Henrique Azevedo,073.562.184-53,1982-02-15,18950.55,Nordeste
+298,Mateus Macedo,173.895.042-50,1945-12-03,8179.16,Sul
+299,Ana Beatriz Sampaio,690.728.435-92,1968-03-16,9560.34,Norte
+300,Ana Cavalcante,249.567.801-76,1977-08-13,19126.97,Sul
+301,Lucas Campos,729.510.483-60,1994-08-15,4937.33,Norte
+302,Mirella da Luz,175.302.489-79,1962-11-14,13762.31,Nordeste
+303,Miguel Campos,760.381.925-30,1981-11-29,7805.09,Nordeste
+304,Sophia Albuquerque,342.109.675-99,1971-01-14,10465.14,Centro-Oeste
+305,Sofia Campos,794.102.856-58,2004-07-31,10883.11,Sudeste
+306,Maria Liz Souza,841.295.063-15,1975-01-24,16511.33,Sudeste
+307,Pietro Andrade,738.142.065-17,1980-04-12,11657.82,Centro-Oeste
+308,Josué Montenegro,039.816.275-12,1968-05-01,8666.17,Sul
+309,Dra. Cecília Pires,403.651.729-52,1975-06-07,12785.88,Nordeste
+310,Mariana da Luz,946.073.815-00,1971-09-26,16295.85,Sudeste
+311,Theodoro Andrade,283.750.641-90,1974-04-19,19628.79,Nordeste
+312,Gael Henrique da Paz,142.573.809-50,1951-01-31,12208.44,Centro-Oeste
+313,Maria Eduarda Aparecida,136.847.025-44,1991-10-12,2729.04,Nordeste
+314,Clarice Macedo,084.235.961-33,1996-04-16,7616.85,Norte
+315,Luiz Miguel Viana,075.869.321-40,1999-09-30,15889.41,Sudeste
+316,Ana Lívia da Rocha,618.354.927-46,1974-02-01,6661.23,Nordeste
+317,Dra. Maria Luiza Vasconcelos,034.629.187-96,1999-05-15,17384.91,Sul
+318,Ágatha Moura,073.584.196-93,1949-03-13,16132.96,Nordeste
+319,Enzo Moraes,615.329.480-42,2006-09-26,18605.16,Nordeste
+320,Dra. Isabella Peixoto,875.631.920-77,1963-03-11,15609.44,Sudeste
+321,Luiz Miguel da Costa,508.196.472-76,1949-11-01,9723.58,Nordeste
+322,Mariana Souza,438.659.210-51,2001-04-15,12795.31,Nordeste
+323,Nathan Pastor,843.912.750-23,1989-10-03,7246.28,Centro-Oeste
+324,Raul Pimenta,467.215.903-52,1993-11-04,12013.35,Centro-Oeste
+325,Bruna Siqueira,315.027.964-06,1960-06-28,2441.4,Norte
+326,Vinicius Aragão,765.942.831-46,1944-04-21,9742.26,Centro-Oeste
+327,Arthur Gabriel Costa,532.071.896-95,1947-12-10,3637.72,Sudeste
+328,Enzo da Luz,620.817.549-67,1978-08-24,4455.72,Norte
+329,Caroline Macedo,563.149.720-43,1950-06-23,18038.98,Centro-Oeste
+330,André Monteiro,592.840.716-58,1980-02-03,10789.49,Nordeste
+331,Marcos Vinicius Ferreira,728.163.459-55,1980-11-05,12436.77,Centro-Oeste
+332,Arthur Gabriel da Rocha,805.346.217-08,1950-08-26,1776.5,Sul
+333,Asafe Moura,538.947.261-64,1953-08-04,7556.57,Nordeste
+334,Ravi Lucca Fogaça,491.872.650-01,1981-12-22,4363.2,Sul
+335,Anthony Gabriel Ribeiro,786.143.205-07,1972-04-11,11425.59,Sul
+336,Dra. Natália Garcia,203.647.819-04,1976-08-01,9754.8,Nordeste
+337,Emilly Duarte,413.920.875-97,1950-04-17,17990.13,Norte
+338,Benicio Duarte,187.649.523-55,1960-02-25,10564.93,Sul
+339,Oliver da Cruz,617.305.942-80,2005-06-14,7110.07,Nordeste
+340,Ísis da Luz,364.509.712-07,2003-04-19,16188.8,Norte
+341,Isabelly Leão,082.637.519-77,1996-05-26,14067.91,Centro-Oeste
+342,Dra. Amanda Jesus,679.832.154-28,2001-04-13,18496.58,Sul
+343,Emanuelly Pastor,670.419.328-69,2002-10-20,1049.31,Sudeste
+344,Matteo Silveira,957.016.348-84,1977-11-19,16317.82,Norte
+345,Luna Costa,246.091.583-70,1956-01-21,12348.28,Sudeste
+346,Pedro Henrique Nogueira,372.610.498-40,1956-02-13,4977.64,Nordeste
+347,Gael Henrique Vargas,903.152.847-14,1965-04-16,15439.15,Nordeste
+348,Srta. Emanuella Siqueira,937.628.514-09,1970-07-21,15201.95,Centro-Oeste
+349,Bruno Pimenta,036.941.278-87,2002-05-01,5796.3,Centro-Oeste
+350,Clarice Sousa,143.826.907-22,1959-08-03,18008.93,Centro-Oeste
+351,João Guilherme Mendonça,714.936.258-37,1980-03-11,11110.16,Sul
+352,Srta. Maya Costa,327.401.695-07,1984-05-04,17477.08,Centro-Oeste
+353,Kevin Lima,209.685.741-49,1959-02-23,8546.11,Norte
+354,Caroline Vargas,105.968.324-51,1952-07-14,15010.7,Sudeste
+355,Isabela Barros,683.094.271-31,1958-10-17,1381.35,Norte
+356,Dr. Miguel Farias,413.829.065-60,1979-06-29,16973.49,Nordeste
+357,Liz Ferreira,589.421.073-97,1986-05-30,11171.38,Norte
+358,Camila da Rosa,418.930.526-05,1980-03-14,17920.02,Sudeste
+359,Luan Cirino,634.189.750-20,1949-02-10,10005.43,Nordeste
+360,Sra. Ana Lívia da Luz,879.536.102-21,1999-08-04,15994.25,Sul
+361,Alícia Cunha,380.216.754-62,1955-03-08,10112.06,Sudeste
+362,Stella Pinto,059.482.317-04,1972-02-07,11205.02,Nordeste
+363,Dra. Isadora Ribeiro,971.085.264-76,2005-05-19,11597.1,Norte
+364,Maria Helena Ramos,760.325.481-71,1967-03-12,11724.71,Nordeste
+365,Aurora Sá,832.651.490-05,1979-02-06,6391.74,Sudeste
+366,Dom Brito,897.310.654-66,1994-09-12,13272.43,Nordeste
+367,Caio Ramos,762.594.183-37,1964-08-04,5642.71,Centro-Oeste
+368,Ágatha Sales,573.086.491-48,1991-09-19,19743.79,Sul
+369,Luara Rocha,710.243.895-88,1950-09-06,18740.14,Sul
+370,Diogo Aragão,695.027.134-43,1993-02-25,2933.87,Sudeste
+371,Pietro Pereira,380.176.249-13,1955-08-12,17165.53,Norte
+372,Maria Laura Monteiro,584.072.913-23,1970-03-12,2524.44,Centro-Oeste
+373,Vicente Oliveira,497.120.356-70,1957-05-13,1346.61,Sul
+374,Aurora Casa Grande,906.512.487-01,1982-05-16,19665.19,Nordeste
+375,Dr. Guilherme Cardoso,659.780.123-77,1956-09-16,11943.97,Centro-Oeste
+376,Emanuel Teixeira,279.453.081-04,1975-05-13,17444.64,Norte
+377,Rafaela Sales,380.752.694-38,1958-05-15,10324.23,Centro-Oeste
+378,Carlos Eduardo Correia,815.374.690-10,1976-03-17,16596.37,Nordeste
+379,Ana Montenegro,976.140.825-67,1988-06-02,11578.49,Nordeste
+380,Sr. Lucca da Rocha,706.928.154-49,1961-09-23,6319.6,Sudeste
+381,Aylla Moura,491.302.657-70,1978-11-01,4896.47,Nordeste
+382,Theo Pacheco,943.865.207-83,1958-02-01,7149.91,Centro-Oeste
+383,Enzo Silva,560.382.419-06,1994-09-20,4790.63,Sudeste
+384,Maria Fernanda Pimenta,249.867.035-10,1989-10-06,5605.78,Norte
+385,Ravi Guerra,048.359.726-00,1951-11-27,12601.78,Sul
+386,Paulo Cavalcante,982.510.476-76,1982-07-09,10615.98,Sudeste
+387,Davi Luiz Silveira,415.762.390-80,1976-12-02,7092.2,Centro-Oeste
+388,Sr. João Guilherme da Conceição,759.406.821-11,1962-06-23,1984.65,Nordeste
+389,Dr. Anthony Dias,093.451.287-60,1963-02-23,9631.09,Sul
+390,Ester Machado,703.528.496-65,2005-04-11,2204.12,Sudeste
+391,Sra. Bárbara Cunha,740.936.815-20,1960-12-08,4832.88,Nordeste
+392,Amanda Azevedo,390.578.264-29,1981-11-16,2669.49,Sul
+393,Maria Helena Machado,706.981.532-86,2002-02-25,1051.51,Norte
+394,João Vitor Sales,694.851.027-20,1952-10-10,12317.14,Centro-Oeste
+395,Kamilly Moreira,936.705.218-95,1966-04-07,7628.5,Norte
+396,Carlos Eduardo Mendes,709.643.582-47,1965-05-10,17163.82,Sudeste
+397,Guilherme Nogueira,190.478.562-01,1984-12-26,19335.51,Sul
+398,Dr. João Vitor da Luz,098.623.145-24,1997-04-17,14886.48,Norte
+399,Emanuel Aparecida,912.748.053-41,1978-02-16,4895.03,Centro-Oeste
+400,Henry das Neves,157.032.498-05,2005-03-06,2263.43,Sudeste
+401,Rael Rezende,485.032.179-88,2006-05-20,16994.75,Centro-Oeste
+402,Juliana da Costa,134.820.756-62,1954-01-12,16110.08,Sudeste
+403,Ana Carolina Jesus,634.028.175-35,2003-08-24,4109.46,Sul
+404,Isabel Pacheco,561.784.930-10,1970-05-28,4541.69,Centro-Oeste
+405,Ana Beatriz Porto,054.172.938-14,2000-10-25,13638.75,Nordeste
+406,Dra. Maria Nunes,162.579.843-19,1952-11-16,18249.46,Norte
+407,Lavínia Câmara,236.017.845-80,1987-03-23,17666.81,Norte
+408,Ravi Correia,692.753.108-40,1993-07-07,13976.66,Centro-Oeste
+409,Dr. Ravi Lucca Mendes,956.730.214-61,1957-07-16,12857.93,Norte
+410,Ana Sampaio,027.136.894-22,1989-01-28,15204.58,Norte
+411,Benício Cavalcanti,513.670.298-21,1962-06-17,5412.04,Norte
+412,Dra. Sabrina Araújo,325.709.684-47,1963-08-17,8438.16,Nordeste
+413,Manuela Nascimento,850.236.791-95,1996-06-05,11327.5,Centro-Oeste
+414,José Miguel Rocha,083.925.617-59,1991-12-14,11314.14,Centro-Oeste
+415,Pietro Guerra,456.187.023-71,2005-07-22,12926.45,Nordeste
+416,Isabelly Caldeira,810.953.462-70,1999-10-07,3646.17,Sul
+417,Julia Martins,063.152.984-51,1996-12-31,10413.05,Centro-Oeste
+418,Davi Lucas Borges,562.793.041-16,1982-01-20,15983.35,Norte
+419,Rafael Correia,071.394.685-75,1984-06-27,6922.72,Sul
+420,Bryan Melo,496.785.321-82,1997-09-16,15792.87,Norte
+421,Ana Luiza Fonseca,357.129.864-00,1997-10-23,1637.12,Nordeste
+422,Aurora Pires,943.027.586-00,1961-10-20,15486.72,Centro-Oeste
+423,Sra. Giovanna Abreu,134.078.659-10,1989-04-28,15338.07,Sul
+424,Alana Carvalho,083.259.146-70,1963-04-07,3102.0,Sudeste
+425,Maria Ramos,187.920.643-96,1956-10-21,9683.0,Sudeste
+426,Anthony Gabriel Almeida,524.378.906-29,1949-12-15,8548.46,Sul
+427,Alexandre Sá,613.829.540-42,1988-04-08,11257.35,Sul
+428,Alice Duarte,938.640.275-00,1996-01-23,5355.78,Sudeste
+429,João Miguel das Neves,689.304.517-48,1974-12-17,15665.76,Centro-Oeste
+430,Anthony Campos,298.365.047-29,1992-03-29,13181.81,Centro-Oeste
+431,Maria Júlia Cassiano,613.824.097-96,1996-09-09,11744.66,Nordeste
+432,Isadora Correia,940.512.876-02,1984-09-03,5784.18,Sul
+433,Caio Guerra,850.427.916-20,1993-06-11,16709.18,Nordeste
+434,Murilo Aparecida,508.673.129-12,1973-09-16,7507.96,Nordeste
+435,Ana Luiza Nascimento,318.256.409-98,1972-12-02,18998.38,Sudeste
+436,Sara Azevedo,045.819.762-94,1996-10-27,18325.2,Nordeste
+437,Sra. Natália Peixoto,984.753.061-01,1994-04-14,12617.63,Sudeste
+438,Davi Miguel Lopes,629.475.301-52,1967-08-26,12266.3,Sudeste
+439,Pietra Cassiano,857.106.924-76,1964-04-01,11737.53,Sudeste
+440,Dr. Juan Mendes,089.524.376-83,2003-04-18,16011.61,Sul
+441,Ágatha Pimenta,284.015.973-23,1991-12-06,14437.53,Nordeste
+442,Cecilia Fonseca,952.078.314-88,1953-07-14,15653.69,Nordeste
+443,Dr. Caleb Nogueira,293.457.086-00,1964-02-19,2309.51,Centro-Oeste
+444,Isabelly Pastor,975.023.864-83,1945-03-20,14992.44,Norte
+445,Enzo Gabriel Teixeira,365.190.784-84,1957-01-04,18585.8,Norte
+446,Ísis Cirino,937.824.610-96,1982-11-15,3151.52,Sul
+447,Maysa Aragão,601.892.374-22,2004-01-15,4144.89,Sudeste
+448,Pietra Barbosa,875.426.309-38,1988-03-03,3368.59,Norte
+449,Théo Jesus,342.501.967-80,1965-10-19,7310.78,Centro-Oeste
+450,João Vitor Abreu,519.462.078-02,1969-07-24,12234.23,Sul
+451,Ian Machado,692.410.753-25,1959-12-06,8206.81,Sul
+452,Beatriz Casa Grande,397.284.065-92,1992-03-09,7368.75,Sudeste
+453,Ana Lívia Gonçalves,839.054.761-93,1970-11-23,15968.01,Nordeste
+454,Valentim Pastor,896.245.317-73,1962-03-10,7336.48,Sudeste
+455,Valentim Albuquerque,749.530.186-48,1985-08-09,11210.52,Centro-Oeste
+456,Maysa da Mata,408.319.567-39,1984-09-16,18536.24,Nordeste
+457,Luara Rodrigues,462.987.301-50,1968-08-23,10135.9,Centro-Oeste
+458,Laura Cardoso,125.804.976-76,1987-09-02,9592.14,Centro-Oeste
+459,Samuel da Rosa,789.102.453-79,2001-12-29,1624.09,Centro-Oeste
+460,Marcela da Paz,935.468.207-38,1995-08-31,3676.28,Norte
+461,Diego Brito,948.063.271-31,1963-07-05,10468.99,Sul
+462,Igor Cassiano,130.675.982-02,1960-02-29,18382.07,Norte
+463,Sr. Alexandre Fogaça,579.013.624-99,1948-02-02,15829.42,Centro-Oeste
+464,Ester Rios,283.197.450-04,1988-01-30,13013.02,Sudeste
+465,Dra. Alícia Mendes,154.932.708-97,1984-08-14,5040.93,Norte
+466,Augusto Cavalcante,182.037.659-12,1964-12-19,4382.68,Sudeste
+467,Laura Vargas,756.814.239-64,2000-10-08,9720.79,Sudeste
+468,Antony Nascimento,380.156.492-42,1989-03-10,8877.86,Sudeste
+469,Stella Novaes,809.346.715-75,1967-02-22,11166.32,Norte
+470,Sr. Theodoro Câmara,348.271.609-96,1989-05-16,6692.32,Sul
+471,Thomas Porto,564.291.708-02,1944-04-17,8549.04,Centro-Oeste
+472,Sra. Ana Beatriz Sá,215.046.839-51,1982-07-03,4988.21,Centro-Oeste
+473,Theo Monteiro,285.706.941-30,2001-10-24,7638.35,Sul
+474,Emanuelly Costa,049.163.587-75,1980-12-21,12874.54,Sul
+475,Lorena Moura,240.786.913-31,1947-06-03,9969.27,Centro-Oeste
+476,Oliver Sousa,764.913.082-78,1990-07-14,2248.46,Centro-Oeste
+477,Maria Fernanda Oliveira,567.382.401-71,1957-06-27,9612.49,Nordeste
+478,Ana Luiza Moreira,482.035.917-79,1981-04-27,11154.66,Norte
+479,Yago Silveira,240.937.586-38,1988-03-24,8614.5,Centro-Oeste
+480,Alana Dias,153.047.962-25,1996-06-18,3949.56,Norte
+481,Dra. Bruna Barbosa,792.406.815-58,1945-08-31,7352.89,Centro-Oeste
+482,Dr. Anthony Gabriel Gonçalves,415.296.038-89,1946-10-01,8092.88,Nordeste
+483,Larissa Albuquerque,165.340.782-44,1969-08-13,18051.18,Nordeste
+484,Gabriela Alves,684.312.590-51,1957-11-03,8765.95,Sudeste
+485,Luiz Miguel Castro,169.483.705-00,1958-06-16,16955.99,Sul
+486,Sr. Lucas Gabriel Costela,139.860.725-86,2006-12-13,8751.71,Norte
+487,Dra. Maya Abreu,792.453.086-00,1958-12-26,5217.47,Centro-Oeste
+488,Dra. Lara Peixoto,076.345.129-07,1989-04-05,10604.65,Norte
+489,Isadora Azevedo,620.135.498-06,1956-05-15,16198.41,Centro-Oeste
+490,Rafaela Rezende,125.436.798-55,1988-01-01,17861.75,Sudeste
+491,Dr. Eduardo Pinto,751.864.930-66,1980-11-12,5525.47,Nordeste
+492,Kevin Barros,172.806.453-80,1970-08-19,16300.98,Centro-Oeste
+493,João Lucas Rodrigues,063.187.249-31,1993-08-18,19290.34,Sudeste
+494,Julia Rezende,032.194.567-07,1959-01-19,13693.62,Sul
+495,Beatriz Castro,896.427.305-29,1960-10-06,8721.45,Nordeste
+496,Lorenzo Costa,719.082.564-94,1997-02-08,1247.04,Norte
+497,Diego Sales,561.023.978-86,1966-07-28,4949.84,Centro-Oeste
+498,Levi Montenegro,873.492.106-04,1979-10-16,3332.76,Centro-Oeste
+499,Sophie Borges,567.049.812-76,1947-09-28,12077.79,Sudeste
+500,Ryan Cavalcante,168.375.294-55,1946-07-24,14374.98,Norte
+501,Isabela Sampaio,264.573.198-82,1969-05-04,16531.43,Sudeste
+502,Pedro Henrique Fogaça,103.256.789-95,1945-01-20,7381.45,Nordeste
+503,Rael da Rosa,096.543.271-80,1998-01-07,7898.13,Sudeste
+504,Caio Pires,801.932.745-23,1949-06-08,16782.44,Sul
+505,Cauê Machado,518.703.624-62,1999-10-27,8778.82,Norte
+506,Hellena Cavalcante,125.039.748-05,1958-02-28,9286.4,Sudeste
+507,Nicolas Garcia,561.842.073-26,1956-10-12,5170.7,Nordeste
+508,Maria Fernanda Azevedo,319.268.540-98,1958-04-28,15508.51,Norte
+509,Isabela Costela,958.724.630-65,1994-04-05,17500.89,Centro-Oeste
+510,Sra. Ester da Cunha,604.281.357-90,1980-04-04,17996.49,Norte
+511,Noah Araújo,618.570.934-10,1962-02-26,10210.79,Norte
+512,Enrico Pereira,759.031.284-32,1992-08-29,6104.87,Nordeste
+513,Lavínia Pereira,375.619.842-19,1978-01-10,13036.09,Norte
+514,Larissa Sales,147.685.903-57,1965-04-13,3647.77,Centro-Oeste
+515,Vicente Ramos,934.562.870-38,1945-01-05,9012.37,Nordeste
+516,Dante Castro,260.179.584-02,1968-03-15,10988.11,Sul
+517,Lucas Gabriel Ferreira,124.583.076-71,1994-11-22,14133.22,Sul
+518,Sra. Heloisa Azevedo,463.750.928-92,1955-02-25,1349.42,Nordeste
+519,Ana Liz Dias,162.850.493-51,1951-12-27,11063.57,Nordeste
+520,Thomas Cunha,634.279.815-09,1989-08-17,11953.81,Nordeste
+521,Sara Melo,679.584.123-55,1962-05-26,11529.38,Norte
+522,Bianca Montenegro,418.953.270-32,1974-04-04,10451.83,Sudeste
+523,Larissa Fonseca,152.034.697-25,1973-06-19,4922.0,Nordeste
+524,Valentim Rezende,013.672.894-40,1991-10-27,3660.35,Centro-Oeste
+525,Ana Lívia Gomes,175.460.389-01,1956-11-09,18100.35,Centro-Oeste
+526,Benjamin Viana,203.861.457-17,2003-09-22,12350.85,Sudeste
+527,Leonardo da Rocha,850.947.621-76,1945-04-18,13028.86,Sul
+528,Stella Pereira,316.587.940-01,2006-03-02,4332.05,Sul
+529,Maria Luiza da Mata,129.406.853-98,1980-03-20,16924.03,Sul
+530,Sra. Maria Luiza Leão,456.083.179-39,1945-07-17,8279.63,Nordeste
+531,Davi Miguel Almeida,834.175.609-93,1982-05-04,9018.69,Nordeste
+532,Dante Rezende,281.539.640-89,1980-10-30,4159.38,Centro-Oeste
+533,Rodrigo Moura,615.807.392-02,1976-11-15,4503.05,Sul
+534,João Oliveira,431.702.659-70,2001-01-04,12459.89,Nordeste
+535,Hellena da Costa,572.431.069-43,1981-08-04,2296.74,Centro-Oeste
+536,Melina Pinto,382.961.504-33,1983-02-28,6485.18,Sudeste
+537,Dra. Ana Lívia Jesus,791.254.603-07,1982-09-03,14661.87,Centro-Oeste
+538,Sra. Ana Vitória Farias,694.810.327-87,1963-12-23,19036.83,Sul
+539,Renan Borges,746.053.918-00,1966-02-27,10191.34,Nordeste
+540,Murilo da Cunha,643.817.092-50,1951-06-30,1592.48,Sudeste
+541,Lavínia Novais,480.921.576-85,1978-02-22,4078.26,Sudeste
+542,Vinícius Carvalho,857.431.926-00,1951-10-04,1977.09,Centro-Oeste
+543,Valentina Peixoto,142.938.567-73,1963-04-12,12340.01,Nordeste
+544,Alexia Machado,389.562.047-56,1949-02-24,12843.32,Nordeste
+545,Mariah Cavalcanti,782.306.954-74,1987-12-12,3025.37,Norte
+546,Sr. Isaque Martins,086.735.921-86,1975-08-03,7679.26,Norte
+547,Sra. Yasmin Sampaio,428.906.537-65,1944-10-22,10414.34,Centro-Oeste
+548,Théo da Paz,761.840.592-11,1967-01-17,12367.44,Norte
+549,João Guilherme Melo,490.265.317-61,1963-01-08,5681.64,Centro-Oeste
+550,Enrico Costa,743.261.089-40,1956-07-20,2477.54,Sudeste
+551,Ana Cecília Santos,763.581.042-17,1944-08-11,14199.23,Nordeste
+552,Diego Costa,860.972.513-86,1946-12-23,2958.78,Sul
+553,Dr. Samuel Silveira,218.709.453-79,2004-11-14,2740.06,Centro-Oeste
+554,Melissa Almeida,895.610.234-15,1961-11-29,19279.88,Norte
+555,Henry da Rosa,563.147.902-80,1994-10-28,19054.51,Norte
+556,Breno Rios,432.650.879-56,1968-08-20,4517.53,Centro-Oeste
+557,Henry Cardoso,162.085.974-20,1981-09-01,14912.27,Sul
+558,Anthony Gomes,835.407.126-07,2007-01-30,15421.68,Sul
+559,Dr. Antony Castro,079.621.854-49,2002-10-09,14153.25,Norte
+560,Mathias da Conceição,403.781.256-80,1957-12-17,18163.91,Sudeste
+561,Mariana Campos,951.308.746-84,1976-12-17,5202.98,Nordeste
+562,Melina Novais,124.968.570-20,1978-10-26,1980.32,Nordeste
+563,Leandro Cassiano,036.912.875-30,1973-01-07,1749.11,Nordeste
+564,Nicole Castro,673.518.209-02,2002-11-05,12177.01,Norte
+565,Igor Macedo,436.950.128-89,1972-09-02,4430.93,Sul
+566,Anna Liz Sales,053.192.768-77,1975-02-11,9990.99,Sul
+567,Esther Carvalho,590.764.123-16,1977-02-26,14889.45,Centro-Oeste
+568,Ana Beatriz Rocha,472.603.195-34,1952-06-16,18563.53,Nordeste
+569,Agatha Machado,136.089.257-59,1989-09-12,9013.49,Sul
+570,Maria Vitória Barbosa,351.096.847-66,1957-02-25,10010.07,Sudeste
+571,Davi Lucca Martins,149.872.065-01,1983-05-23,17046.44,Nordeste
+572,Vitória Nascimento,249.605.731-80,1997-02-27,10926.26,Norte
+573,Lunna Jesus,786.493.205-38,1992-05-02,13353.18,Centro-Oeste
+574,Mariana Carvalho,384.019.652-33,1985-07-28,11652.87,Sul
+575,Otto Macedo,901.782.435-23,1983-03-15,2462.11,Sul
+576,Maria Sophia Lopes,078.962.143-69,1946-10-26,11075.04,Nordeste
+577,Milena Leão,623.591.407-52,1990-08-28,14770.57,Sudeste
+578,Luísa Pacheco,589.637.012-12,1999-02-16,11876.13,Norte
+579,Sr. Henry Gabriel Araújo,451.796.820-02,2006-11-13,11229.63,Norte
+580,Davi Miguel Novais,401.732.865-26,1964-10-08,15019.26,Norte
+581,Sr. Apollo Martins,462.830.951-51,1968-05-08,17833.58,Nordeste
+582,Maria Júlia da Rocha,581.309.276-59,1965-01-05,17656.64,Nordeste
+583,Srta. Maya Jesus,713.459.260-06,1966-03-29,1463.61,Nordeste
+584,Gabriela Barros,782.915.634-46,1998-11-18,19816.48,Centro-Oeste
+585,Felipe Porto,061.723.589-95,1958-01-24,17619.33,Sul
+586,Juliana Machado,510.843.692-06,1962-10-04,8295.31,Centro-Oeste
+587,Sr. Rhavi Monteiro,261.059.834-33,1960-02-08,2330.56,Sudeste
+588,Luara Almeida,589.461.730-84,1971-03-30,2000.99,Norte
+589,Sra. Maria Clara Pacheco,893.065.417-75,1985-04-22,8636.69,Sul
+590,João Jesus,938.520.174-32,1978-08-04,10115.85,Sudeste
+591,Sophia Ramos,635.091.478-39,1946-01-14,19697.59,Nordeste
+592,Gael Farias,981.237.456-64,1987-03-14,2742.29,Sudeste
+593,Bento Nascimento,490.312.857-14,1948-09-06,15014.06,Norte
+594,Luana Barbosa,805.972.146-11,2005-04-21,3099.01,Nordeste
+595,Cecília Martins,596.320.471-25,1949-03-05,6629.85,Sul
+596,Ágatha Aparecida,897.465.120-30,2001-09-09,1799.77,Norte
+597,Vinícius Jesus,618.475.023-26,1980-01-22,18296.44,Norte
+598,Melissa Aparecida,492.385.760-92,2002-02-11,3079.88,Norte
+599,Enzo Sampaio,108.542.639-42,1964-07-19,13913.3,Sudeste
+600,Matteo Santos,936.507.418-57,1974-05-06,19171.9,Sul
+601,Vitor da Conceição,354.916.207-34,1967-12-13,15940.56,Centro-Oeste
+602,Otto Campos,956.347.280-29,1963-06-01,12182.53,Centro-Oeste
+603,Théo Silveira,543.290.761-52,1976-01-30,18170.76,Nordeste
+604,Sra. Emanuelly Costela,234.508.967-92,1990-04-26,4173.64,Sudeste
+605,Rodrigo Pereira,764.180.925-11,1995-01-30,2234.74,Sudeste
+606,Ana Luiza Teixeira,876.942.301-69,1959-11-24,16918.69,Sul
+607,Julia Albuquerque,103.726.489-40,1948-07-29,16782.21,Nordeste
+608,Ayla da Mata,782.643.915-91,1958-10-16,1891.96,Norte
+609,Cauê Pereira,345.978.106-84,1983-09-23,5189.24,Norte
+610,Emilly Camargo,076.215.984-76,1956-06-17,19188.13,Sul
+611,Sr. Breno Rodrigues,895.732.641-37,1968-04-27,2099.01,Norte
+612,Agatha Albuquerque,950.132.687-02,1953-02-08,10846.95,Sudeste
+613,Maria Liz Duarte,289.473.510-32,1986-11-12,19903.25,Sul
+614,Daniel Ramos,364.507.982-38,1964-02-07,5944.43,Centro-Oeste
+615,Bruna Costela,643.015.897-75,1958-08-07,15406.53,Norte
+616,Elisa Viana,196.308.547-75,1994-06-03,3924.02,Centro-Oeste
+617,Pedro Miguel Gonçalves,381.056.947-00,1956-02-02,5264.37,Sul
+618,Sra. Luana da Conceição,025.781.643-71,2001-08-16,11202.51,Norte
+619,Caroline Rezende,634.812.057-08,1990-11-15,18003.51,Sul
+620,Isabela Siqueira,076.542.831-80,1975-12-27,2738.25,Norte
+621,Bella Rodrigues,710.832.954-97,2006-11-19,8432.23,Centro-Oeste
+622,Ísis Araújo,932.614.785-19,1975-09-23,3460.78,Norte
+623,Maria Júlia Castro,702.398.645-65,1994-08-14,1843.16,Nordeste
+624,Arthur Gabriel Barros,803.549.261-60,1990-10-20,17380.42,Norte
+625,Elisa Lima,906.735.481-39,1949-03-01,7251.98,Norte
+626,João Gabriel Guerra,147.695.083-01,2002-06-10,11466.29,Centro-Oeste
+627,Yago Novaes,294.573.068-56,1964-02-25,6346.43,Sudeste
+628,Stella Machado,763.054.218-62,2002-03-30,8081.08,Centro-Oeste
+629,Eduarda Souza,492.851.073-97,1990-10-12,14744.98,Nordeste
+630,Ana Lívia Fogaça,239.180.567-59,1946-12-12,11119.45,Sul
+631,Aurora Moura,591.786.230-30,1962-03-28,5183.48,Sul
+632,Isabel Moreira,047.821.365-44,2006-08-10,17995.12,Sul
+633,Bárbara Pastor,395.842.017-60,1949-06-05,17172.93,Sul
+634,Antonella Nogueira,746.392.851-91,1970-02-04,10131.14,Sul
+635,Heloisa Silveira,901.254.638-98,1950-05-21,18223.76,Centro-Oeste
+636,Melina Moreira,564.179.082-67,1971-08-28,7608.37,Nordeste
+637,Dr. Samuel Cirino,437.921.086-31,1977-01-07,11331.8,Sul
+638,Leonardo da Luz,806.452.317-62,1947-12-22,6073.54,Centro-Oeste
+639,Melissa Cavalcanti,658.329.170-30,1986-09-30,17495.06,Sudeste
+640,João Pedro da Luz,463.507.219-34,1999-11-15,17161.05,Centro-Oeste
+641,Gael Jesus,235.467.089-38,1987-09-07,4047.6,Sul
+642,Luiz Miguel Vieira,380.946.215-24,2004-10-18,16903.25,Norte
+643,Emanuel Cirino,307.986.421-22,1991-04-23,18671.72,Sudeste
+644,Dra. Maria Cecília Ramos,765.324.108-53,1978-12-24,12753.62,Sudeste
+645,Luiz Otávio Sampaio,685.712.493-00,1978-08-12,4013.5,Centro-Oeste
+646,Theo da Luz,763.182.490-87,1993-01-27,19264.99,Norte
+647,João Felipe Moreira,270.561.493-16,1948-04-01,1555.7,Nordeste
+648,Leonardo Santos,903.581.762-12,1996-11-07,3448.53,Centro-Oeste
+649,Sra. Maria Julia Camargo,450.289.376-56,1962-09-04,5343.88,Nordeste
+650,Liz Campos,201.653.749-34,1960-01-23,16541.37,Sul
+651,Gustavo Henrique Santos,208.653.794-83,1950-09-24,10641.89,Nordeste
+652,Maria Luiza Rodrigues,581.296.730-02,1979-11-08,6453.72,Centro-Oeste
+653,Giovanna da Mota,504.237.691-70,1956-06-06,19642.54,Norte
+654,Sra. Rafaela Ribeiro,629.435.081-60,1973-02-18,3201.03,Nordeste
+655,Rafaela Siqueira,682.371.904-40,1964-10-13,13046.11,Sul
+656,Sra. Maria Fernanda da Costa,248.196.703-87,1994-09-04,15817.06,Centro-Oeste
+657,Pietro Guerra,586.417.023-26,1962-06-19,15459.53,Nordeste
+658,Luigi Sampaio,507.614.983-20,1946-01-25,9212.57,Nordeste
+659,Sr. Benício Cunha,041.723.695-61,1978-06-22,7495.57,Sudeste
+660,Davi Lucca da Mota,104.876.239-40,1976-12-13,4410.45,Sul
+661,Natália Lopes,496.035.281-70,1983-12-16,2947.68,Sudeste
+662,Mariane Câmara,157.963.824-46,1978-03-31,4301.32,Sudeste
+663,Enrico Azevedo,972.410.358-79,1979-12-30,2288.9,Centro-Oeste
+664,Erick Rocha,546.318.920-05,1965-07-16,4161.17,Sudeste
+665,Mathias Araújo,127.693.048-87,1970-04-24,2279.66,Nordeste
+666,Stella Fonseca,320.758.916-21,1975-10-31,9997.9,Nordeste
+667,Ana Lívia Brito,620.973.154-61,1951-08-08,2419.19,Nordeste
+668,Levi Sá,602.439.157-99,1989-05-09,17559.2,Sul
+669,Luan Freitas,186.390.724-69,1946-10-05,9473.21,Centro-Oeste
+670,Luna Novais,621.854.790-67,1986-03-20,3471.64,Sul
+671,Rael Aragão,375.182.064-71,1968-01-04,8288.63,Sul
+672,Antony Caldeira,854.029.136-33,1969-04-15,1420.35,Centro-Oeste
+673,Antônio Gomes,948.573.602-92,1953-07-25,5797.67,Nordeste
+674,Gabriel Azevedo,586.719.430-20,1953-05-07,4019.83,Nordeste
+675,Eloá Camargo,056.147.392-70,1990-09-21,19945.37,Norte
+676,Srta. Luísa Souza,796.254.083-47,1980-01-09,2941.68,Norte
+677,Vinícius Farias,768.042.315-62,1984-03-14,4108.85,Sul
+678,Luna Duarte,615.097.328-02,1972-08-26,14179.96,Sudeste
+679,Rael Freitas,841.063.592-51,1949-09-23,16959.0,Sudeste
+680,Bruna Novais,867.439.120-69,1981-07-25,13435.71,Centro-Oeste
+681,Dra. Júlia Barros,942.358.167-64,1958-02-20,17493.03,Sudeste
+682,Melina Porto,120.753.894-97,1993-11-03,1594.74,Sul
+683,Emilly Pacheco,618.795.430-01,1991-09-22,18928.7,Sul
+684,Guilherme Gonçalves,459.730.268-92,1946-09-05,13131.99,Centro-Oeste
+685,Dra. Rebeca Sales,905.138.467-00,1951-08-28,6210.09,Centro-Oeste
+686,Dra. Ana Clara Fernandes,063.981.572-30,1978-11-24,6927.09,Nordeste
+687,Luiza Alves,947.152.386-91,1955-04-25,17987.88,Nordeste
+688,Sra. Mariana Rocha,372.641.908-03,2003-11-14,5048.99,Norte
+689,Gael Henrique Mendes,385.279.164-28,1954-08-14,13381.67,Sudeste
+690,João Vitor Rocha,506.741.839-75,1980-12-25,11692.26,Sudeste
+691,Maria Laura Barbosa,271.530.964-34,2005-02-27,9990.99,Sudeste
+692,Samuel Caldeira,498.760.125-76,2006-09-14,4524.98,Norte
+693,Maitê da Rocha,792.561.084-02,1976-07-05,2732.13,Centro-Oeste
+694,Oliver da Costa,941.806.753-66,1971-09-27,17050.88,Sudeste
+695,Aylla Machado,524.706.839-47,1999-12-22,1339.38,Sul
+696,Emanuelly Novais,593.728.064-47,1965-06-23,3493.65,Sul
+697,Manuela Souza,143.592.608-06,1999-08-24,18324.88,Nordeste
+698,Maria Vitória Cavalcante,705.814.326-90,1996-10-26,12716.36,Norte
+699,Ana Júlia Cirino,804.371.695-10,1971-02-16,1023.4,Norte
+700,José Pedro Fernandes,478.613.059-10,1949-11-22,12538.82,Sudeste
+701,Alana Barros,093.246.785-74,1977-05-29,9175.81,Norte
+702,Eloah Farias,970.513.682-30,1992-01-01,4055.68,Sul
+703,Ana Laura Azevedo,680.742.395-00,1994-08-17,6110.87,Centro-Oeste
+704,Antony Pinto,729.348.516-64,1945-09-17,19702.68,Norte
+705,Isis Sampaio,093.726.184-03,1975-01-07,1220.79,Nordeste
+706,Vitória Duarte,785.269.134-09,1961-08-18,13928.68,Nordeste
+707,Mariane Andrade,957.182.304-04,1949-02-26,10118.84,Centro-Oeste
+708,Emanuelly Moreira,015.684.273-44,2001-04-24,14204.66,Norte
+709,Enzo Gabriel Vieira,017.853.264-90,1944-08-20,19100.32,Norte
+710,Sr. João Gabriel Aragão,953.076.148-10,1999-04-10,1752.76,Centro-Oeste
+711,Ana Sophia Camargo,064.257.938-56,1946-07-14,2993.67,Norte
+712,Marina Albuquerque,926.435.817-09,1946-06-16,2953.06,Sudeste
+713,Pietra Vargas,937.041.568-84,1948-05-28,14346.83,Nordeste
+714,Pedro Henrique Aparecida,708.194.635-66,1995-05-06,15740.29,Nordeste
+715,Srta. Hellena Pereira,308.152.679-59,1998-04-04,7202.76,Nordeste
+716,Sr. Thales Pereira,807.256.134-08,1950-12-25,11150.6,Norte
+717,Enzo Gabriel da Mota,420.987.361-69,1991-03-25,7661.91,Norte
+718,Marcos Vinicius Brito,741.562.803-90,1985-03-23,16665.77,Nordeste
+719,Bruna da Conceição,761.230.548-80,1948-11-10,8541.54,Nordeste
+720,Isabelly Fernandes,367.059.142-70,1970-06-30,19571.86,Nordeste
+721,Cecilia Freitas,601.925.437-25,1946-05-11,14099.83,Nordeste
+722,Sofia Sá,894.025.617-49,1955-01-05,16607.37,Nordeste
+723,Fernando Garcia,517.284.936-09,1962-10-24,4182.17,Norte
+724,Nicole Gonçalves,791.263.548-37,1980-11-25,19079.45,Sul
+725,Mirella Farias,785.923.416-55,1991-10-15,14423.04,Norte
+726,Benjamin da Cruz,192.750.634-43,1988-03-10,18788.03,Norte
+727,Dr. Nathan Castro,812.690.573-59,1962-01-29,14472.15,Nordeste
+728,Caleb Rios,649.031.872-50,1970-07-27,12880.79,Sudeste
+729,Sr. Kevin da Luz,501.329.764-80,1965-08-24,7449.55,Centro-Oeste
+730,Caleb Gonçalves,608.745.923-56,1982-06-09,10203.57,Centro-Oeste
+731,Sr. Mathias Pacheco,382.495.016-24,2005-07-09,18001.52,Sudeste
+732,Bruna Moreira,245.068.739-47,1945-12-30,12352.04,Nordeste
+733,Luana Silveira,407.586.932-65,1970-08-31,10137.17,Norte
+734,Lara Novaes,451.327.098-50,1955-02-28,4115.99,Centro-Oeste
+735,Kaique Mendes,723.814.596-00,1944-04-15,14771.7,Sudeste
+736,Luiz Gustavo da Rocha,942.537.810-04,1981-10-18,5694.96,Sul
+737,Maria Luiza da Luz,483.279.165-64,1974-07-26,10106.3,Centro-Oeste
+738,Gustavo Barros,168.254.907-02,1976-09-09,5165.07,Sudeste
+739,João Vitor Almeida,359.420.167-80,1969-01-13,15141.3,Sul
+740,Isabelly Correia,754.189.360-93,1967-02-21,16004.27,Centro-Oeste
+741,Laura Monteiro,826.957.304-38,1975-11-26,4071.78,Nordeste
+742,Vitor Barbosa,421.560.987-94,1948-04-17,13412.0,Sul
+743,Mariana Leão,519.086.273-95,1969-06-14,19930.34,Norte
+744,Sr. Raul Araújo,634.072.589-92,1990-02-28,10372.26,Sudeste
+745,Srta. Maria Cecília Correia,432.981.756-09,1951-06-08,4791.31,Centro-Oeste
+746,Dra. Ana Lívia Pires,401.893.567-66,1963-06-26,5190.66,Norte
+747,Gael Fernandes,192.438.675-55,1991-02-18,16968.6,Norte
+748,Ravi Silveira,601.253.849-98,1949-10-13,17497.18,Nordeste
+749,Lívia Guerra,164.359.780-93,1990-11-27,15111.42,Sudeste
+750,Sr. Guilherme da Rocha,581.260.749-49,1975-05-02,12946.53,Sudeste
+751,Erick Barbosa,985.726.134-55,1987-03-02,8049.74,Sudeste
+752,Arthur Miguel Martins,037.194.526-70,1982-01-08,10592.05,Nordeste
+753,Kamilly Silveira,874.369.502-74,1947-04-28,17473.6,Norte
+754,Bárbara Almeida,048.753.619-39,1994-10-21,9333.69,Sul
+755,Bernardo Fonseca,614.352.879-91,1975-03-30,8514.79,Sudeste
+756,Dr. João Miguel Nascimento,324.106.598-70,1970-03-06,17595.04,Nordeste
+757,Nicolas Moraes,794.320.165-52,1961-07-01,16066.17,Nordeste
+758,Isabelly Garcia,046.791.283-13,1990-10-30,19850.53,Nordeste
+759,Clara Câmara,942.306.857-00,2004-03-02,18334.9,Sudeste
+760,Srta. Nina Brito,596.840.327-65,1987-05-19,8293.1,Nordeste
+761,Luiz Miguel da Luz,906.285.374-92,1984-01-11,12999.64,Norte
+762,Igor Moraes,538.167.240-35,1983-09-12,3499.79,Sudeste
+763,Leandro Silveira,715.324.960-52,1961-08-24,18271.62,Nordeste
+764,Vitor Sousa,054.176.293-16,1958-10-04,5513.32,Nordeste
+765,Davi Luiz Melo,468.537.029-56,1986-02-27,4438.56,Sul
+766,Miguel Moura,913.872.504-50,1999-09-19,2313.52,Norte
+767,Srta. Mirella Abreu,682.137.409-04,1969-08-08,5697.39,Sudeste
+768,Maria Vieira,379.521.460-25,1995-11-12,8695.4,Norte
+769,Raul Silveira,307.524.968-83,1966-04-19,13589.8,Norte
+770,Vitor Hugo Casa Grande,873.214.096-78,1957-05-17,8430.55,Norte
+771,Ayla Caldeira,371.890.542-60,1948-06-17,8581.87,Centro-Oeste
+772,Nicolas da Mata,301.425.967-52,1991-01-18,13478.0,Norte
+773,João Vitor Mendes,435.782.901-14,1986-03-13,15695.99,Sudeste
+774,Camila Novaes,920.615.438-98,1979-01-08,19426.6,Centro-Oeste
+775,Enzo Gabriel Pacheco,956.287.034-00,1974-03-19,17790.48,Nordeste
+776,Pedro Lucas Fernandes,269.031.574-25,1949-08-03,9526.77,Sudeste
+777,Matheus Rezende,750.146.839-75,1968-01-11,16748.78,Norte
+778,Laura Porto,246.397.180-04,1953-05-31,9539.24,Centro-Oeste
+779,Mariana Barbosa,510.724.389-41,1969-04-16,19023.08,Norte
+780,Rafaela Abreu,670.591.342-80,2001-03-14,4173.8,Sudeste
+781,Maria Clara Aparecida,975.280.614-76,1981-02-28,8207.81,Centro-Oeste
+782,Sr. Paulo Campos,137.896.450-01,1974-06-03,14991.64,Sul
+783,Hadassa Pacheco,983.162.057-77,1978-01-11,11136.73,Norte
+784,Luiza Machado,652.894.317-64,1962-05-31,17039.24,Sudeste
+785,Ian da Mata,628.473.590-10,1992-01-10,9481.0,Sudeste
+786,Ana Laura Porto,347.829.650-10,1982-06-06,11258.21,Sudeste
+787,Raul Castro,061.425.938-05,1977-01-22,6125.24,Nordeste
+788,Dra. Raquel Santos,751.243.908-32,1965-10-16,3336.45,Sul
+789,Carlos Eduardo Melo,986.714.025-76,1985-07-02,18795.51,Sul
+790,Emanuel Costa,081.237.569-68,1973-03-11,13160.06,Centro-Oeste
+791,Aurora Gomes,349.827.150-41,1990-06-12,9591.78,Sul
+792,Srta. Lavínia Martins,261.537.908-95,1951-10-01,2682.56,Norte
+793,Dr. Otávio Pires,824.561.097-67,1956-03-05,10637.46,Sudeste
+794,Calebe Farias,540.712.693-16,1969-11-02,3818.52,Sul
+795,Dr. Ian Gonçalves,948.367.201-50,1959-02-18,10118.04,Centro-Oeste
+796,Ravy Peixoto,198.673.540-01,1979-06-04,1093.86,Nordeste
+797,Nathan Nascimento,084.295.367-10,1973-02-17,7139.48,Sul
+798,Davi Lucas Ramos,712.058.369-77,1951-02-01,17490.45,Centro-Oeste
+799,Ana Liz Camargo,051.439.728-41,1956-10-26,10288.09,Sudeste
+800,Maria Laura Ramos,736.198.024-40,1982-12-02,11112.65,Sul
+801,Marina Siqueira,743.580.296-47,1986-08-02,3727.3,Nordeste
+802,Marcelo Pires,713.850.426-80,1999-06-15,4835.22,Nordeste
+803,Sr. Davi Miguel da Costa,876.130.425-53,1992-10-17,4578.63,Sul
+804,Maria Alice da Cunha,046.385.297-47,2004-09-16,9431.25,Sul
+805,Lorena Souza,612.453.789-37,1972-04-07,19303.59,Nordeste
+806,Melina das Neves,412.863.079-96,1992-05-23,13571.01,Nordeste
+807,Maria Fernanda Alves,801.264.953-51,1963-06-30,8111.64,Nordeste
+808,Marcela Viana,046.718.935-84,1956-05-18,5638.8,Nordeste
+809,Kevin Correia,842.931.576-46,1994-02-03,17509.19,Norte
+810,Sra. Maria Alice Porto,391.752.860-68,1999-01-17,1577.35,Norte
+811,Maria Luísa Vasconcelos,586.913.427-73,1985-01-09,14101.01,Norte
+812,Lorena Montenegro,670.482.139-22,1946-09-02,12411.58,Sul
+813,Bárbara Aparecida,702.468.519-02,1968-10-07,13672.46,Norte
+814,Dr. Thomas Araújo,062.153.489-70,1961-06-29,3025.27,Sudeste
+815,Bruna Silveira,754.613.098-01,2002-02-03,4026.46,Norte
+816,Eloah Cavalcante,072.961.854-49,1945-11-26,17462.33,Norte
+817,Ravi Lucca Nogueira,039.512.476-06,1979-01-05,17544.32,Norte
+818,Srta. Maria Alice Rocha,807.495.236-38,1994-04-23,2719.15,Norte
+819,Luiza Leão,914.235.068-98,1974-06-24,3073.08,Nordeste
+820,Emanuel Barbosa,923.706.154-43,2006-08-26,8678.67,Sudeste
+821,Dr. Luiz Miguel Sales,871.690.243-22,1950-10-17,13684.27,Nordeste
+822,Isaque Garcia,491.682.570-58,1975-12-26,15483.42,Norte
+823,Bruno Aragão,463.291.587-46,1959-05-30,7026.72,Sul
+824,Anthony Gabriel Barros,386.049.751-01,1951-02-03,16538.85,Norte
+825,Maria Júlia da Costa,125.304.689-15,1969-12-18,7239.24,Norte
+826,Emilly Costa,165.340.798-01,2001-12-04,7962.77,Sul
+827,Letícia Barros,276.139.485-28,1956-08-11,8227.97,Sul
+828,Raquel Lima,085.741.639-10,1984-07-15,9525.18,Norte
+829,Joana Rezende,458.037.216-62,1994-08-22,11368.05,Centro-Oeste
+830,Josué Mendonça,250.487.139-23,1949-08-07,5318.12,Nordeste
+831,Bento Siqueira,176.205.839-12,2001-04-14,12154.17,Nordeste
+832,Diogo da Mota,561.943.072-34,1944-09-29,15427.54,Norte
+833,Ana Beatriz Almeida,910.874.653-20,1955-11-26,8215.93,Nordeste
+834,Breno da Paz,074.625.138-62,1966-12-16,19078.09,Nordeste
+835,Dr. Rafael Viana,071.352.964-43,1975-07-02,10104.46,Sul
+836,Catarina Siqueira,281.736.049-40,1999-07-06,16461.56,Norte
+837,Mariane Garcia,694.250.873-00,2004-09-18,8223.72,Nordeste
+838,Stephany Vargas,538.491.076-39,1998-09-07,11005.85,Sudeste
+839,Lorenzo Castro,520.683.741-53,1950-06-16,10057.21,Centro-Oeste
+840,Dra. Ana Júlia Vasconcelos,760.932.185-03,1990-04-05,15532.78,Nordeste
+841,Lucas Marques,274.953.601-43,1971-05-19,14594.33,Centro-Oeste
+842,Maria Julia Albuquerque,805.327.416-17,1946-11-03,1346.42,Centro-Oeste
+843,Bianca Silva,857.392.104-88,1981-08-24,1143.69,Sul
+844,Luara Rezende,632.018.475-26,1974-01-01,18062.58,Norte
+845,Alexia Melo,793.425.860-74,1953-12-12,13439.17,Centro-Oeste
+846,Maria Cecília Sampaio,584.932.607-38,1978-09-06,2145.08,Sul
+847,Mariah Campos,350.284.197-79,1967-12-04,10104.48,Centro-Oeste
+848,Cecília da Mata,849.703.621-22,1997-03-14,2927.0,Sul
+849,João Guilherme Machado,798.510.346-57,1972-05-21,12729.68,Sul
+850,Gustavo da Cruz,418.359.027-23,1962-08-11,6412.59,Centro-Oeste
+851,Dr. Fernando Melo,730.465.892-47,2006-03-06,18662.51,Sudeste
+852,Hellena Mendonça,458.120.396-15,1982-05-22,11244.06,Nordeste
+853,Pedro Lucas Castro,476.982.315-00,1995-06-25,12596.34,Nordeste
+854,Srta. Lara Sales,079.685.243-00,1974-01-31,8598.2,Sul
+855,Srta. Laura Aparecida,847.926.503-56,1961-05-14,8857.43,Norte
+856,Alice da Luz,214.837.965-82,1997-06-29,10927.14,Sudeste
+857,Luiz Miguel Almeida,453.879.612-37,1972-12-29,4447.33,Sul
+858,Maysa Borges,397.401.865-48,1982-01-04,4507.12,Norte
+859,Valentim Borges,172.904.856-02,1991-09-24,11778.93,Nordeste
+860,Camila da Rosa,075.498.631-48,1998-07-02,18437.3,Sudeste
+861,Natália Duarte,458.217.903-79,1990-01-20,10187.37,Norte
+862,Melina Leão,756.430.982-29,1993-06-08,8096.68,Sul
+863,Elisa Novaes,729.546.318-64,1951-05-02,13029.88,Centro-Oeste
+864,Elisa Rezende,395.081.276-86,2002-01-20,1049.1,Sul
+865,Diego Vargas,803.925.746-83,1983-04-06,17799.92,Norte
+866,Maria Cecília Gonçalves,957.812.640-94,2003-02-14,16081.13,Nordeste
+867,Henrique Novais,237.196.850-12,1963-01-09,4320.7,Norte
+868,Asafe Rodrigues,519.807.364-48,1999-10-20,16957.36,Norte
+869,Maria Liz da Rosa,724.359.801-32,1950-02-18,5500.54,Sul
+870,Lara Cassiano,924.581.673-73,1946-05-10,6739.15,Centro-Oeste
+871,Gabriel Leão,379.845.620-83,1999-02-24,17172.31,Nordeste
+872,Sr. Guilherme Fernandes,540.672.983-74,2001-07-19,16381.07,Centro-Oeste
+873,Ester Porto,470.586.329-10,1984-06-04,12853.33,Norte
+874,Sr. Miguel Novais,183.752.460-26,1975-02-05,9054.95,Sul
+875,Nicole Pires,584.721.639-46,1990-05-06,4192.27,Centro-Oeste
+876,Ana Liz Santos,736.408.291-31,1999-02-03,17515.93,Norte
+877,Ísis da Paz,036.485.172-44,1951-03-29,5118.06,Norte
+878,Ana Laura Machado,510.423.897-05,1969-06-16,4390.47,Sul
+879,Bento Lima,705.296.348-56,1990-01-03,13197.46,Sudeste
+880,Dr. Marcos Vinicius Viana,504.128.739-23,1952-09-19,4917.54,Centro-Oeste
+881,Alexia Lima,369.504.817-48,1947-03-30,5406.99,Sul
+882,Bella da Paz,230.874.916-40,1962-06-20,12295.05,Norte
+883,Murilo Jesus,930.514.287-79,1970-01-26,19767.92,Centro-Oeste
+884,Vitor Hugo Barros,906.584.713-84,2003-12-19,12343.89,Nordeste
+885,Evelyn Brito,475.860.921-76,1980-08-18,8682.06,Sul
+886,Bryan Gonçalves,231.976.458-55,1983-03-25,14634.36,Norte
+887,José Miguel Santos,914.086.273-96,1973-11-19,1300.6,Sudeste
+888,Emanuelly da Luz,946.712.385-19,1988-04-04,16555.43,Sudeste
+889,Srta. Letícia Montenegro,764.039.218-78,1952-11-03,14762.44,Nordeste
+890,Hellena Freitas,908.415.372-32,2000-03-31,18204.97,Sul
+891,Sarah Nascimento,523.470.891-88,1986-09-06,2508.97,Sul
+892,João Sales,674.910.325-16,1968-08-08,17989.63,Centro-Oeste
+893,Sr. Luiz Fernando Teixeira,574.683.921-37,1957-07-10,8622.57,Norte
+894,Danilo das Neves,435.207.186-26,1971-05-31,5306.47,Norte
+895,Ana Clara Cavalcanti,026.379.841-04,1978-04-27,12725.96,Sul
+896,Vinicius Pires,403.219.586-24,1996-02-23,10862.14,Nordeste
+897,Vicente Pastor,548.093.267-56,2006-02-15,13722.45,Sudeste
+898,Leandro Rezende,679.043.218-31,1989-05-10,5440.53,Sul
+899,Maria Liz Rios,925.137.468-64,1983-08-19,6151.8,Nordeste
+900,Heloísa Macedo,678.329.150-21,1991-02-08,13922.51,Sudeste
+901,Isabelly Monteiro,351.649.208-24,2006-07-12,7162.34,Centro-Oeste
+902,Isadora Barbosa,769.320.548-92,1955-01-15,4616.17,Nordeste
+903,Alícia Vasconcelos,091.487.623-69,1947-03-28,19888.65,Nordeste
+904,Maria Luiza Brito,420.563.198-70,1975-09-07,7895.94,Centro-Oeste
+905,Asafe Gonçalves,560.824.319-60,2004-08-07,14882.36,Sudeste
+906,Clarice Sá,058.364.712-07,1946-03-04,2142.7,Sudeste
+907,Dr. Luiz Otávio Camargo,193.258.064-60,1992-04-17,2686.58,Sul
+908,Lucas Marques,719.463.082-69,1984-12-16,4330.76,Norte
+909,Otto Abreu,765.018.349-10,1963-03-18,4239.08,Nordeste
+910,Srta. Yasmin Freitas,402.869.713-13,1982-08-23,2836.85,Norte
+911,Isadora Cassiano,687.024.931-87,1991-08-23,16614.32,Sudeste
+912,Yuri Andrade,692.145.073-25,1970-09-11,7603.86,Sudeste
+913,Francisco Novaes,017.624.395-06,1985-02-01,19643.49,Centro-Oeste
+914,Alícia Vieira,267.958.130-02,1950-07-29,18616.38,Sul
+915,Levi Vargas,524.863.079-74,1963-06-05,3276.75,Centro-Oeste
+916,Zoe Ribeiro,379.062.541-80,1983-08-31,3895.9,Sul
+917,Pedro Lucas Andrade,143.065.972-61,1974-12-23,15006.42,Sudeste
+918,Nicolas Aparecida,905.682.143-15,1954-02-25,5629.48,Sul
+919,Dom Fernandes,073.564.298-29,2005-01-15,2765.65,Nordeste
+920,Stella da Paz,581.294.673-64,1950-10-03,15970.14,Norte
+921,Benjamim Azevedo,426.790.318-22,1972-10-12,12561.24,Sudeste
+922,Bruno Duarte,346.259.817-19,1963-05-26,15858.53,Nordeste
+923,Laura Leão,927.604.135-43,1958-08-07,2199.07,Sudeste
+924,Dr. Pedro Henrique da Mota,875.164.203-44,1970-01-01,6759.44,Nordeste
+925,Sophia Melo,683.127.059-02,1999-12-29,7491.82,Norte
+926,Laura Campos,512.908.673-21,1996-12-29,2665.21,Centro-Oeste
+927,José Miguel Mendes,548.602.179-85,1995-09-20,5542.05,Norte
+928,Maria Júlia Viana,183.760.945-48,1945-10-06,6804.96,Sudeste
+929,Joaquim Vargas,306.542.819-98,1976-07-30,6314.37,Nordeste
+930,Ana Clara Sales,362.591.807-21,1957-04-03,12411.29,Centro-Oeste
+931,Sr. Léo Montenegro,930.861.724-87,1953-09-12,15939.24,Sudeste
+932,Dr. Benjamin Nascimento,971.586.243-82,1951-05-17,17177.07,Nordeste
+933,Olivia Costa,735.649.012-99,1998-07-14,10521.91,Norte
+934,Caleb Nascimento,379.148.250-50,1948-11-01,3210.96,Nordeste
+935,Rebeca Siqueira,548.213.679-55,1946-12-12,12931.05,Nordeste
+936,Liam Viana,681.709.435-66,1989-12-28,17493.08,Centro-Oeste
+937,Maria Liz Sousa,753.109.462-25,1952-05-10,16010.58,Sudeste
+938,Emanuelly Cardoso,413.067.952-06,1977-06-29,16555.97,Sul
+939,Emilly Rodrigues,016.753.982-59,1958-05-27,1434.98,Centro-Oeste
+940,Srta. Maria Alice Fonseca,842.951.370-14,2000-11-05,14204.07,Nordeste
+941,Ana Carolina Peixoto,104.627.589-58,2005-08-01,19189.13,Nordeste
+942,João Vasconcelos,315.908.264-42,1974-08-15,13178.47,Norte
+943,Brayan Abreu,890.473.162-31,2001-09-15,11928.1,Sul
+944,Ana Julia da Costa,783.219.650-59,1992-02-27,17378.28,Sudeste
+945,Isaque Barros,978.350.216-68,1994-11-13,12521.05,Norte
+946,Thomas Cunha,682.450.971-01,1959-03-24,12518.81,Sul
+947,Srta. Eloá Marques,076.148.539-20,1960-06-06,7033.1,Centro-Oeste
+948,Vicente Nunes,248.576.910-94,1961-10-30,8574.6,Norte
+949,Gabriel Abreu,081.739.264-50,1970-01-08,13659.83,Nordeste
+950,Ana Liz Brito,572.184.369-19,1949-10-28,2295.27,Nordeste
+951,Sr. Miguel Cardoso,872.914.560-02,1945-08-01,10616.04,Sudeste
+952,Pietro Camargo,472.190.356-16,1952-08-04,2519.34,Sudeste
+953,Maria Helena Silveira,126.485.930-98,2002-09-01,19350.62,Sudeste
+954,Oliver Fernandes,712.534.968-46,1945-12-08,6924.51,Sudeste
+955,Fernando Correia,807.965.341-01,1973-10-13,9350.72,Sudeste
+956,Sr. Pietro Sampaio,382.045.791-79,1978-03-12,17177.52,Sul
+957,Carlos Eduardo Pastor,428.710.953-88,1976-09-18,1336.07,Nordeste
+958,Aurora Correia,614.538.972-91,1999-02-18,13353.82,Centro-Oeste
+959,Luiza Garcia,135.742.860-07,1991-05-24,8342.76,Sul
+960,Lucas Gabriel Monteiro,203.174.986-22,1955-06-11,15834.47,Nordeste
+961,Maria Flor Garcia,816.732.509-12,1970-05-09,5023.35,Centro-Oeste
+962,Raul Aparecida,253.408.197-79,1957-09-26,15330.82,Norte
+963,Arthur Porto,619.380.274-69,1950-01-04,9176.41,Norte
+964,Rebeca Fonseca,684.573.109-84,2005-04-26,3702.74,Norte
+965,Anna Liz Correia,205.136.894-51,1999-11-14,15871.22,Centro-Oeste
+966,Sara Caldeira,608.193.527-21,1972-10-08,4377.56,Sudeste
+967,Mariah Cunha,879.256.304-00,1954-01-25,12742.98,Sudeste
+968,Sra. Ana Luiza Vieira,352.916.840-89,1944-10-24,19937.24,Norte
+969,Vitor Peixoto,284.693.071-69,1991-06-30,5420.27,Sudeste
+970,Carlos Eduardo Lima,895.724.306-29,1965-09-30,6818.82,Sudeste
+971,Sophia Pereira,628.159.304-98,1966-01-11,13458.75,Nordeste
+972,Rebeca Vasconcelos,270.931.854-79,1964-02-14,3483.5,Sudeste
+973,Levi Porto,027.156.384-26,1988-02-28,8691.17,Sul
+974,Sr. Cauã Peixoto,541.672.308-44,1959-05-30,7730.49,Centro-Oeste
+975,Caleb Almeida,274.680.153-17,1959-11-20,8868.47,Sul
+976,Sra. Luna Moreira,817.204.935-88,1945-06-03,8354.5,Sul
+977,Josué Lopes,036.475.928-38,1966-03-08,1209.59,Nordeste
+978,João Pedro Moreira,564.892.130-60,1963-01-18,3542.27,Sul
+979,Guilherme Cavalcante,403.251.678-26,2007-02-25,1364.65,Sul
+980,Luísa Freitas,473.612.085-17,1953-08-27,15445.51,Nordeste
+981,Ísis Porto,018.652.743-80,1988-06-04,4604.2,Sul
+982,Ravy Moreira,623.157.048-71,1968-04-23,5088.84,Sul
+983,Fernanda Fonseca,369.145.827-00,1951-11-12,16851.76,Sul
+984,Aylla Cavalcante,426.305.798-83,1962-09-02,19541.6,Nordeste
+985,Luna Freitas,607.985.123-77,1974-07-02,2227.72,Sudeste
+986,Stephany Pires,379.485.012-23,1972-12-06,8056.76,Norte
+987,Eduarda Araújo,045.289.163-98,1964-05-26,11411.23,Sul
+988,Sr. Mathias Silva,025.374.986-74,1994-11-01,17042.78,Sul
+989,Ian Jesus,192.573.684-91,1959-04-14,10276.58,Sudeste
+990,Dra. Daniela Câmara,693.021.854-51,1977-03-30,17428.55,Sudeste
+991,Vinícius Pereira,598.726.301-86,2002-05-06,13382.5,Centro-Oeste
+992,Luana Sales,761.354.829-55,1973-01-01,8141.88,Sudeste
+993,Otávio Souza,690.875.321-21,1998-08-23,17331.74,Nordeste
+994,Lara Pimenta,408.527.916-58,1962-10-20,15915.31,Sul
+995,Sophie Cavalcanti,842.675.193-82,1969-02-05,3529.76,Norte
+996,Kamilly Azevedo,415.639.782-37,1946-07-06,13515.15,Norte
+997,Breno Cassiano,801.465.379-39,1959-12-08,14074.56,Sudeste
+998,Ana Guerra,036.581.729-59,1965-07-22,2451.92,Norte
+999,Maria Clara da Mota,938.105.764-84,1985-01-30,16976.56,Nordeste
+1000,Maria Novais,274.985.613-28,1957-12-02,5808.11,Sul

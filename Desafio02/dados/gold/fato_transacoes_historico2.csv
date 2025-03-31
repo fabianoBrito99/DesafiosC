@@ -1,0 +1,7 @@
+id_cliente,ano_mes,tipo_transacao,valor_total,qtd_transacoes,validade_inicio,validade_fim,versao
+101,2025-03-01,pagamento,100.0,1,2025-03-27,2025-03-28,1
+101,2025-03-01,pagamento,200.0,1,2025-03-28,,2
+101,2025-03-01,ted,150.0,1,2025-03-27,2025-03-28,1
+101,2025-03-01,ted,300.0,1,2025-03-28,,2
+102,2025-03-01,saque,250.0,1,2025-03-27,,1
+103,2025-03-01,pagamento,400.0,1,2025-03-27,,1
