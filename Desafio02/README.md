@@ -53,7 +53,7 @@ Este desafio implementa um pipeline completo de engenharia de dados utilizando P
 
 - Arquitetura em camadas proposta: 
 
-![Arquitetura](/envidencias/Arquitetura_de_dados.jpg)
+![Arquitetura](./envidencias/Arquitetura_de_dados.jpg)
 
 - Validações automatizadas com função de Data Quality Check
 - DAG orquestrável com Apache Airflow para produção
@@ -130,10 +130,10 @@ dados/
 
 Na Parte 1 e 2 achei estranho pois não tava retornando dados errados ou faltantes, mas fiz os testes manuais e a logica estava certos pois nos testes manuais gerava os erros, então aparentemente nesta etapa 1 e 2 nenhum dado duplicado por id, ou dados orfãos, ou ausentes conformes os testes abaixos podemos ver que tava funcionando as logicas implementadas:
 
-![Dados Duplicados](/envidencias/teste02.png)
+![Dados Duplicados](./envidencias/teste02.png)
 
-![Logica Funcionando](/envidencias/teste%20duplicado.png)
+![Logica Funcionando](./envidencias/teste%20duplicado.png)
 
-![Dados Duplicados pt2](/envidencias/env_pt2_testando%20dados%20nulos.png)
+![Dados Duplicados pt2](./envidencias/env_pt2_testando%20dados%20nulos.png)
 
 ![Logica Funcionando pt2](/envidencias/teste02_funcionando.png)

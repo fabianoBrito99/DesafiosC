@@ -1,0 +1,80 @@
+✅ Prompt para Miro – Arquitetura com Ferramentas Azure (Formato Visual com Bordas Verdes)
+🟩 Fontes de Dados
+Descrição: APIs, bancos, arquivos, logs
+
+🔗 Ligação ➝
+
+🟩 Azure Data Lake Storage Gen2 (Camada Bronze)
+📦 Dados brutos da fonte, sem transformação
+
+🔷 ETL/ELT (Diamante Verde)
+💡 Representa o pipeline de ingestão + transformação
+
+🔗 Conecta para:
+
+🟩 Ingestão
+📌 Coleta de dados da camada Bronze
+
+🔧 Ferramenta:
+🟩 Azure Data Factory (Copy Activity, Linked Services)
+📌 Tecnologias suportadas: REST APIs, SQL connectors, pipelines visuais
+❌ (Sem uso direto de Python, PySpark ou SQL aqui)
+
+🟩 Transformação
+📌 Tratamento, deduplicação, enriquecimento
+
+🔧 Ferramentas:
+🟩 Azure Databricks
+✔️ PySpark para transformações distribuídas
+✔️ Python para limpeza, validações, enriquecimento
+✔️ SQL (SparkSQL ou via dbt para modelagem declarativa)
+
+🟩 Camada Silver (Trusted)
+📌 Dados limpos, estruturados e confiáveis
+
+🔗 Conecta para:
+
+🟩 Camada Gold (Refined)
+📌 Dados enriquecidos e prontos para modelagem e análise
+
+🏢 Data Warehouse
+🟩 Azure Synapse Analytics
+📊 Tabelas fato/dimensão
+📈 Otimizado para relatórios e análises
+
+✔️ SQL utilizado em modelagens, consultas e relatórios
+
+🤖 Machine Learning
+🟩 Azure Databricks + MLflow
+📦 ML Registry
+✔️ Python (scikit-learn, XGBoost etc.)
+
+📊 Camada de Visualização
+🟩 Power BI (Azure)
+📌 Conectado diretamente ao Data Warehouse
+📈 Dashboards de inadimplência, score, PE
+❌ (Sem uso de Python, PySpark ou SQL diretamente)
+
+📎 Ferramentas (coluna lateral direita – conectadas com setas):
+
+Categoria	Ferramentas + Tecnologias utilizadas
+🔹 Orquestração	🟩 Azure Data Factory (pipelines visuais)
+🔹 Ingestão	🟩 Azure Data Factory (Copy Activity, REST, SQL)
+🔹 Transformação	🟩 Azure Databricks
+✔️ PySpark
+✔️ Python
+✔️ SQL
+🔹 Modelagem / ML	🟩 Azure Databricks
+🟩 MLflow
+✔️ Python
+🔹 Visualização (BI)	🟩 Power BI
+Tableau (opcional)
+🧠 Estética no Miro:
+✅ Use formas com bordas verdes para cada etapa
+
+➡️ Use setas verticais entre os blocos principais (da esquerda)
+
+➡️ Use setas horizontais para conectar cada etapa à sua ferramenta na coluna direita
+
+📌 Texto curto, claro e categorizado
+
